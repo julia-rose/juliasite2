@@ -1,0 +1,67 @@
+body{
+	font-family: sans-serif;
+	margin: 0 0 0 0;
+}
+
+h1{
+	color: green;
+	text-align: center;
+	padding: 70px 20px 20px 20px;
+}
+
+img.photo{
+	float: left;
+	padding: 10px 20px 20px 10px;
+}
+
+
+a{
+	text-decoration: none;
+	color: white;
+
+}
+
+
+.fb-stripe{
+	position: fixed;
+	width: 100%;
+	background: blue;
+	color: white;
+	text-align: center;
+}
+
+.wrapper {
+	border: 5px solid green;
+	max-width: 1200px;
+	margin: 0 auto;
+	width: 80%;
+
+}
+
+.nav{
+	padding-left: 0px;
+	text-align : center;
+	margin-left : 5%;
+	margin-right : 5%;
+
+}
+.button{
+	display: inline-block;
+	width: 120px;
+	border: 1px solid black;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	border-radius: 10px;
+	background: green;
+}
+
+.button:hover{
+	background: rgba(0,255,0,.5);
+	color: green;
+
+}
+
+.content{
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+}
